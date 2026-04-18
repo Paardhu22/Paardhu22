@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paardhu</h1>
 <h3 align="center">Aspiring Full Stack Developer | Building AI-powered apps</h3>
 
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+Builder;Next.js+Enthusiast;Always+Learning+🚀" />
-  </a>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+myself+paardhu!)](https://git.io/typing-svg)
 ---
 
 ##  About Me
