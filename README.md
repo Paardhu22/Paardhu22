@@ -40,7 +40,7 @@
 
 ##  Connect with Me
 -  LinkedIn: https://www.linkedin.com/in/paardhiv-reddy-tumma 
--  Email: (optional)  
+-  Email: paardhivreddy22@gmail.com  
 
 ---
 
