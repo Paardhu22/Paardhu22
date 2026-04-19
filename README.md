@@ -44,4 +44,4 @@
 
 ---
 
-⭐️ From [Paardhu22](https://github.com/Paardhu22)
+ From [Paardhu22](https://github.com/Paardhu22)
