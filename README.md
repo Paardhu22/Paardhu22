@@ -39,7 +39,7 @@
 ---
 
 ##  Connect with Me
--  LinkedIn: (add your link here)  
+-  LinkedIn: https://www.linkedin.com/in/paardhiv-reddy-tumma 
 -  Email: (optional)  
 
 ---
