@@ -24,9 +24,7 @@
 - Multi-agent architecture  
 - Authentication + payments integration  
 
-###  Virtual Mouse (Gesture Control)
-- Built using Python + OpenCV  
-- Hand tracking to control cursor  
+
 
 ---
 
