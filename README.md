@@ -22,19 +22,20 @@
 ###  AI SaaS Platform
 - Built using Next.js + OpenAI API  
 - Multi-agent architecture  
-- Authentication + payments integration  
+- Authentication + payments integration  |
+
+
+##  Currently working on:
+
+###  qp-gen Project
+
+What the project is
+AOS (Academic Orchestration System) / "Paper Gen" — a CBSE question-paper generator. Django backend + Next.js 16 (Turbopack) frontend, TipTap editor, Zustand editor-store, SSE streaming generation, q_instructions blueprint engine, RAG over educator-uploaded PDFs (PyMuPDF/pypdf + pgvector), OpenAI for generation. Repo: github.com/Paardhu22/qp-gen, local at /home/paardhu/Projects/qp-gen. My role across this chat: writing detailed, paste-ready prompts for Claude Code to implement/fix, then reviewing the results.
+Core architecture principle
+Decoupled design: pedagogical blueprint (q_instructions — structure/marks/Bloom's) is kept strictly separate from RAG content retrieval. Live generation path is stream_generated_questions → build_question_plan in generation_router.py (Class-10 language blueprints live inline in the router, not in subjects/*/orchestrator.py which are dead for streaming).
 
 
 
----
-
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paardhu22&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paardhu22&theme=tokyonight" />
-</p>
-
----
 
 ##  Connect with Me
 -  LinkedIn: https://www.linkedin.com/in/paardhiv-reddy-tumma 
